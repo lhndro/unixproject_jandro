@@ -1,0 +1,248 @@
+<html>
+  <head>
+	<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .tile {
+    width: 200px;
+    text-align: center;
+  }
+
+  .tile img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+	</style>
+  </head>
+  <body>
+<link rel="stylesheet" href="style/style.css">
+<div>
+  <a href="index.html">Home</a> |
+  <a href="page1.html">About Me</a> |
+  <a href="page2.html">What I Like</a> |
+  <a href="page3.html">Special Thanks</a>
+</div>
+
+<hr>
+        <h1>What I Like</h1>
+	<p>It's a lot.</p>
+        <h2>Songs On Repeat That You Should Listen To</h2>
+	
+        <div class="gallery">
+
+		<div class="tile">
+			<img src="img/diamondeyes.jpg">
+			<p>Diamond Eyes<br>Deftones</p>
+ 				</div>
+
+		<div class="tile">
+        		<img src="img/inthemoment.jpg">
+        		<p>in the moment<br>disctr4k ft. Yazida</p>
+       				</div>
+
+		<div class="tile">
+        		<img src="img/unmusique.jpg">
+	        	<p>Ignorant<br>Lucy Bedroque</p>
+	        		</div>
+
+		<div class="tile">
+       	 		<img src="img/beaucoupfish.jpg">
+       	 		<p>Push Upstairs<br>Underworld</p>
+        			</div>
+
+		<div class="tile">
+     	   		<img src="img/iantw.jpg" href="https://soundcloud.com/lucybedroque/delilah">
+     	   		<p>i am not the world<br>Lucy Bedroque</p>
+     	   			</div>
+
+		<div class="tile">
+			<img src="img/ren.jpg">
+			<p>Ren<br>Backend</p>
+				</div>
+		
+		<div class="tile">
+			<img src="img/d19.jpg">
+			<p>Stairs<br>Design19</P>
+				</div>
+
+		<div class="tile">
+			<img src="img/pumpkins.jpg">
+			<p>Jellybelly<br>The Smashing Pumpkins</p>
+				</div>
+
+		<div class="tile">
+			<img src="img/fatjon.png">
+			<p>in position<br>fat jon</p>
+				</div>
+
+		<div class="tile">
+			<img src="img/everything2.jpg">
+			<p>Juanita / Kiteless - Live / Brussels, Belgium / 1999<br>Underworld</p>
+				</div>
+
+		<div class="tile">
+			<img src="img/bluesummer.jfif">
+			<p>Summer Rain<br>Woesum ft. Yung Lean</p>
+				</div>
+
+		<div class="tile">
+			<img src="img/maggit.jpg">
+			<p>Back to School (Mini Maggit)<br>Deftones</p>
+				</div>
+
+		<div class="tile">
+			<img src="img/walk2me.jfif">
+			<p>Walk to me<br>xaviersobased</p>
+				</div>
+
+		<div class="tile">
+			<img src="img/imx.jpg">
+			<p>We Got It<br>Immature</p>
+				</div>
+
+		<div class="tile">
+			<img src="img/kny.jpg">
+			<p>Leathers<br>Deftones</p>
+				</div>
+
+			
+		<div class="tile">
+			<img src="img/getright.jpg">
+			<p>get right!<br>AshZone</p>
+				</div>
+	</div>
+
+	<h2>Games In My Backlog/In Rotation</h2>
+
+    <div class="gallery">
+
+  <div class="tile">
+    <img src="img/rdr2.avif">
+    <p>Red Dead Redemption 2<br>//DUUUUUUUTCH DUUUUUUUUUUUUUTCH</p>
+  </div>
+
+  <div class="tile">
+    <img src="img/nmh.jpg">
+    <p>No More Heroes<br>//"hes just like me fr"</p>
+  </div>
+
+  <div class="tile">
+    <img src="img/cs2.jpg">
+    <p>Counter Strike 2<br>//this game actually blows</p>
+  </div>
+
+  <div class="tile">
+    <img src="img/rev2.webp">
+    <p>Guilty Gear Xrd REV 2<br>//i'm a bedman main shhh dont tell anyone</p>
+  </div>
+
+  <div class="tile">
+    <img src="img/bo2.png">
+    <p>Call of Duty: Black Ops II<br>//(If you're going to play this game on PC, use Plutonium)</p>
+  </div>
+
+  <div class="tile">
+    <img src="img/smtiv.jpg">
+    <p>Shin Megami Tensei IV<br>//favorite jrpg series</p>
+  </div>
+
+  <div class="tile">
+    <img src="img/ds2.jpg">
+    <p>Dark Souls II: Scholar of the First Sin<br>//ohhh BROOOOTHER</p>
+  </div>
+
+</div>
+
+	<h2>Favorite Shows + Movies</h2>
+	
+	<div class="gallery">
+	
+	<div class="tile">
+		<img src="img/venture.webp">
+		<p>The Venture Bros.<br>//adult swim has good shows</p>
+			</div>
+
+	<div class="tile">
+		<img src="img/jjk.jpg">
+		<p>Jujutsu Kaisen<br>//binged this in a week. best decision ever. yuta a bum btw</p>
+			</div>
+	<div class="tile">
+		<img src="img/cmmty.jpg">
+		<p>Community<br>//chevy chase wasn't acting :(</p>
+			</div>
+
+	<div class="tile">
+		<img src="img/chainsaw.jpg">
+		<p>Chainsaw Man<br>//MAPPA PLEASE GIVE US INTERNATIONAL  ASSASSIN ARC</p>
+			</div>
+	
+	<div class="tile">
+		<img src="img/killbill.jpg">
+		<p>Kill Bill, Vol. 1<br>//that strange man tarentino can cook</p>
+			</div>
+
+	<div class="tile">
+		<img src="img/legends.jpg">
+		<p>The (Almost) Legends of Bahia Coloradaa<br>//uncle in mexico showed me this. feels wes anderson-ish</p>
+			</div>	
+
+	<div class="tile">
+		<img src="img/athf.jpg">
+		<p>Aqua Teen Hunger Force<br>//i watched this show when i was 9 and it had more influence than id like to admit</p>
+			</div>
+
+	<div class="tile">
+		<img src="img/goldenwind.webp">
+		<p>JoJo's Bizzare Adventure: Golden Wind<br>//best part ever fite me</p>
+			</div>
+
+	<div class="tile">
+		<img src="img/shin.jpg">
+		<p>Shin Godzilla<br>//lowkeynuinely a godzilla fan now</br>
+			</div>
+
+	<div class="tile">
+		<img src="img/pidaman.jpg">
+		<p>Spider-Man (2002)<br>//this is a thanksgiving movie</br>
+			</div>
+	</div>
+
+<h2>Favorite Albums</h2>
+ <div class="gallery">
+
+        <div class="tile">
+		<img src="img/kny.jpg">
+		<p>Koi No Yokan<br>Deftones</p>
+			</div>
+
+	<div class="tile">
+		<img src="img/unmusique.jpg">
+		<p>Unmusique<br>Lucy Bedroque</p>
+			</div>
+
+	<div class="tile">
+		<img src="img/bti.gif">
+		<p>Because the Internet<br>Childish Gambino</p>
+			</div>
+
+	<div class="tile">
+		<img src="img/we.jpg">
+		<p>World's End<br>El Huervo</p>
+			</div>
+
+	<div class="tile">
+		<img src="img/charlotte.jpg">
+		<p>The Secret Lies With Charlotte<br>BBY GOYARD</p>
+			</div>
+
+	<div class="tile">
+		<img src=
+	</div>
+  </body>
+</html>
+

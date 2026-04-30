@@ -1,0 +1,71 @@
+/* ============================
+   1. FONT FACE
+   ============================ */
+@font-face {
+    font-family: 'BW';
+    src: url('pokemon-b-w.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ============================
+   2. GLOBAL BODY FONT
+   ============================ */
+body {
+    font-family: 'BW', 'Courier New', monospace;
+}
+
+/* ============================
+   4. YOUR EXISTING TEXT SHADOW
+   (unchanged — exactly how you like it)
+   ============================ */
+
+.pokemon-text {
+    font-family: 'BW', 'Courier New', monospace;
+
+    color: #ffffff;
+    letter-spacing: 0.5px;
+
+    text-shadow:
+        1px 1px 0 #4a4a4a,
+        0px 1px 0 #4a4a4a;
+
+    image-rendering: pixelated;
+    -webkit-font-smoothing: none;
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+/* ============================
+   5. HOME PAGE BACKGROUND
+   ============================ */
+body.home {
+    position: relative;
+    background-image: url('index_bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+body.page1 {
+    position: relative;
+    background-image: url('page1_bg.JPG');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+/* Optional overlay tint */
+body.home::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.4);
+    pointer-events: none;
+    z-index: -1;
+}
